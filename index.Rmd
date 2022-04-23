@@ -1,4 +1,4 @@
---- 
+---
 title: "Teach Your Child the Multiplication Facts"
 author: "Mark R Russell"
 date: "`r Sys.Date()`"
@@ -6,4 +6,3 @@ site: bookdown::bookdown_site
 ---
 
 # Down the rabbit-hole
-
