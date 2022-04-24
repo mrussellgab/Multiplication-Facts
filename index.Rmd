@@ -1,7 +1,12 @@
 ---
 title: "Teach Your Child the Multiplication Facts"
+subtitle: "The No Tears Method:
 author: "Mark R Russell"
 date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    theme: united
 site: bookdown::bookdown_site
 ---
 
